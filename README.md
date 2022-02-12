@@ -1,4 +1,4 @@
-### Hi there 👋
+### Try Hack Me
 
 <!--
 **MrHr6874/MrHr6874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
