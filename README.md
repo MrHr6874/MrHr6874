@@ -44,4 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/Cr3cked.png" alt="TryHackMe">
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Cr3cked.png?cache-bust=1)
+
+
